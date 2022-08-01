@@ -1,8 +1,8 @@
 body {
-  font-family: 'LibreCaslonDisplay', serif;
+  font-family: 'Libre Caslon Display', serif;
 }
 .display-1 {
-  font-family: 'LibreCaslonDisplay', serif;
+  font-family: 'Libre Caslon Display', serif;
   font-size: 5.375rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 6.71875rem;
 }
 .display-2 {
-  font-family: 'LibreCaslonDisplay', serif;
+  font-family: 'Libre Caslon Display', serif;
   font-size: 3.5625rem;
   line-height: 1.1;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'LibreCaslonDisplay', serif;
+  font-family: 'Libre Caslon Display', serif;
   font-size: 1.5rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 1.875rem;
 }
 .display-7 {
-  font-family: 'LibreCaslonDisplay', serif;
+  font-family: 'Libre Caslon Display', serif;
   font-size: 1.1875rem;
   line-height: 1.5;
 }
@@ -2225,7 +2225,7 @@ a.btn {
 .cid-sPvnENxTMZ {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #111213;
 }
 .cid-sPvnENxTMZ .mbr-text {
   color: #909190;
